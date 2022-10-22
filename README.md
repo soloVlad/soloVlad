@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @soloVlad
-- 👀 I’m interested in front-end
 - 🌱 I’m currently learning JS
 - 📫 How to reach me connectwithVlad@gmail.com
 

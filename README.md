@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soloVlad
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning NestJS
 - 📫 How to reach me connectwithVlad@gmail.com
 
 <!---
